@@ -4,3 +4,7 @@ Thumbs.db
 
 /.vscode/
 /.idea/
+
+/server/__debug_bin
+/server/server
+/server/*.log
